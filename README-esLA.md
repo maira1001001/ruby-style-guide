@@ -253,7 +253,7 @@ Traducciones de esta guía están disponibles en los siguientes idiomas:
     !something
     ```
 
-* Indenta `when` tan profundo como `case`. Sé que muchos no estarán
+* Indenta _`when` tan profundo como `case`. Sé que muchos no estarán
   de acuerdo con esto, pero es el estilo establecido tanto en "The
   Ruby Programming Language" y "Programming Ruby".
 
